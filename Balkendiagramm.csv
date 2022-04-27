@@ -1,0 +1,21 @@
+date,location,vaccination_status,percent
+2022-04-18,Czechia,fully,64.01
+2022-04-18,Czechia,partly,0.8399999999999892
+2022-04-18,France,fully,77.89
+2022-04-18,France,partly,2.260000000000005
+2022-04-18,Germany,fully,75.41
+2022-04-18,Germany,partly,0.5499999999999972
+2022-04-18,Hungary,fully,64.26
+2022-04-18,Hungary,partly,2.219999999999999
+2022-04-18,Italy,fully,79.32
+2022-04-18,Italy,partly,4.75
+2022-04-18,Poland,fully,59.28
+2022-04-18,Poland,partly,0.6000000000000014
+2022-04-18,Switzerland,fully,68.77
+2022-04-18,Switzerland,partly,0.9900000000000091
+2022-04-18,United Kingdom,fully,72.76
+2022-04-18,United Kingdom,partly,5.009999999999991
+2022-04-18,United States,fully,66.01
+2022-04-18,United States,partly,11.420000000000002
+2022-04-18,World,fully,58.72
+2022-04-18,World,partly,6.310000000000002
